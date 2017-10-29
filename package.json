@@ -1,8 +1,8 @@
 {
-  "title": "One Page Wonder",
-  "name": "startbootstrap-one-page-wonder",
-  "version": "4.0.0-beta.2",
-  "description": "A one page HTML template built with Bootstrap",
+  "title": "Permazen site",
+  "name": "permazen-site",
+  "version": "0.1",
+  "description": "Permazen site",
   "keywords": [
     "css",
     "sass",
@@ -11,19 +11,19 @@
     "theme",
     "template"
   ],
-  "homepage": "https://startbootstrap.com/template-overviews/one-page-wonder",
+  "homepage": "https://permazen.io",
   "bugs": {
-    "url": "https://github.com/BlackrockDigital/startbootstrap-one-page-wonder/issues",
-    "email": "feedback@startbootstrap.com"
+    "url": "https://github.com/permazen/permazen-site/issues",
+    "email": "permazen@permazen.io"
   },
   "license": "MIT",
-  "author": "Start Bootstrap",
+  "author": "Archie",
   "contributors": [
-    "David Miller (http://davidmiller.io/)"
+    "Paul Hammant (http://paulhammant.com/)"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/BlackrockDigital/startbootstrap-one-page-wonder.git"
+    "url": "https://github.com/permazen/permazen-site.git"
   },
   "dependencies": {
     "bootstrap": "^4.0.0-beta.2",
